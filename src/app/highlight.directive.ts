@@ -1,4 +1,4 @@
-import { Directive, ElementRef, elem } from '@angular/core';
+import { Directive, ElementRef, } from '@angular/core';
 
 @Directive({
   selector: '[appHighlight]'
