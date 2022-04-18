@@ -8,8 +8,8 @@ import { Quotes } from '../quotes';
 })
 export class QuoteComponent implements OnInit {
   quotes:Quotes[] = [
-    new Quotes(1, 'Watch finding Nemo','nelson mandela', 0, 0, ''),
-    new Quotes(2,'Buy Cookies','jay',0,0,''),
+    new Quotes(1, ' You only live once','nelson mandela', 0, 0, ''),
+    new Quotes(2,'Trust your cRazy ideas','jay',0,0,''),
     new Quotes(3,'Get new Phone Case','author',0, 0, ''),
     new Quotes(4,'Get new Phone Case','author',0, 0, ''),
     new Quotes(5,'Get new Phone Case','author',0, 0, ''),
