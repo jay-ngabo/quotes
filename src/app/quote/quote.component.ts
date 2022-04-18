@@ -12,8 +12,8 @@ export class QuoteComponent implements OnInit {
     new Quotes(2,'Trust your cRazy ideas','jay',0,0,''),
     new Quotes(3,'Imagunation is more important than knowledge','jay',0, 0, ''),
     new Quotes(4,'You can pay for school but you cant buy class','jay-z',0, 0, ''),
-    new Quotes(5,'Get new Phone Case','Kendrick lamar',0, 0, ''),
-    new Quotes(6,'Get new Phone Case','author',0, 0, ''),
+    new Quotes(5,'Who needs a hero? you need a hero, look in the mirror, there goes your hero','Kendrick lamar',0, 0, ''),
+    new Quotes(6,'No such thing as a life better than yours. LOVE YOURS','j-cole',0, 0, ''),
   ];
 
   addNewQuote(quote: Quotes){
