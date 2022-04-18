@@ -10,9 +10,9 @@ export class QuoteComponent implements OnInit {
   quotes:Quotes[] = [
     new Quotes(1, ' You only live once','nelson mandela', 0, 0, ''),
     new Quotes(2,'Trust your cRazy ideas','jay',0,0,''),
-    new Quotes(3,'Get new Phone Case','author',0, 0, ''),
-    new Quotes(4,'Get new Phone Case','author',0, 0, ''),
-    new Quotes(5,'Get new Phone Case','author',0, 0, ''),
+    new Quotes(3,'Imagunation is more important than knowledge','jay',0, 0, ''),
+    new Quotes(4,'You can pay for school but you cant buy class','jay-z',0, 0, ''),
+    new Quotes(5,'Get new Phone Case','Kendrick lamar',0, 0, ''),
     new Quotes(6,'Get new Phone Case','author',0, 0, ''),
   ];
 
