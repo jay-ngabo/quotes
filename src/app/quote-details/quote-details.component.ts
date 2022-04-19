@@ -20,9 +20,9 @@ export class QuoteDetailsComponent implements OnInit {
 
   ngOnInit(): void {
   }
-  upvote(i: number){
-    // this.quote.upvotes++;
-    alert('hi')
+  upvote(){
+    this.quote.upvotes++;
+   
   }
   downvote(){
     this.quote.downvotes++;

@@ -2,6 +2,12 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.1.
 
+## PROJECT DESCRIPTION
+<P> this application allows a user to view the available quotes and add or remove quotes, also one can vote for a quote they like</P>
+
+### AUTHOR
+<P> JACQUELINE NGABO </P>
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
