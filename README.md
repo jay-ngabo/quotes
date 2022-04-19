@@ -33,3 +33,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 ## licence and contact information
 <p> Copyright 2022 jacqueline ngabo. The above work is open source for use by any third parties be it for commercial or personal usage. The software is provided on basis od "as it is". The aurthor is not liable to any damages , claims or liabity  caused as a result of the use of this application </p>
+### contact
+<p> email : ngabo.jay@gmail.com</p>
+<p> phone : +254724764835</p>
